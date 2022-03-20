@@ -1,0 +1,15 @@
+user:
+  - name: xiaoming
+    age: 18
+    book:
+      - book-name: 百年孤独
+        book-price: 20
+      - book-name: 悲惨世界
+        book-price: 25
+  - name: xiaoxia
+    age: 21
+    book:
+      - book-name: spring从入门到精通
+        book-price: 21
+      - book-name: 高等数学
+        book-price: 22
